@@ -5,7 +5,7 @@
 - 🏫 I'm currently a 2nd year undergrad at JIIT, Noida.
 - 🎓 I'm a scholar at Google WTEF (Cohort 2).
 - 👩‍💻 I'm currently learning DSA.
-- 💬 Ask me about any tech related query- 💬 Ask me about any tech related query.
+- 💬 Ask me about any tech related query.
 - 😄 Fun Fact: I love to write poetries and draw.
 - ⚡ Moto: I am the incharge of my own destiny.
 
