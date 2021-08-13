@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjrealworld&label=Views&color=blue&style=plastic" alt="rjrealworld" /> </p>
 
 ## I'm a student, developer, learner, and a mentor!
-- 🏫 I'm currently a 2nd year undergrad at JIIT, Noida.
+- 🏫 I'm currently a 3rd year undergrad at JIIT, Noida.
 - 🎓 I'm a scholar at Google WTEF (Cohort 2).
 - 👩‍💻 I'm currently learning DSA.
 - 💬 Ask me about any tech related query.
